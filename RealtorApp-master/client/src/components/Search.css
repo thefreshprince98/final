@@ -1,0 +1,29 @@
+.SearchTitle {
+  color: rgb(255, 0, 85);
+}
+.header{
+  background-color: cornflowerblue;
+}
+body{
+  background-color: cornflowerblue;
+}
+.formOne{
+font-size: large;
+}
+.Price{
+font-size: larger;
+color: chartreuse;
+}
+.Address1{
+font-size: larger;
+font-weight: bold;
+}
+.stateName{
+float: left;
+}
+.footer{
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
